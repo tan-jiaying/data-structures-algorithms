@@ -23,6 +23,6 @@ Open Addressing <br />
 
 Separate Chaining <br />
 ![image](https://user-images.githubusercontent.com/106059007/210790982-b67f3fde-12d0-4636-b324-995d48322c2f.png)
-![image](https://user-images.githubusercontent.com/106059007/210791033-68cbfe1e-2183-4e4e-b434-1bffbaa2f6bf.png) <br />
+![image](https://user-images.githubusercontent.com/106059007/210791033-68cbfe1e-2183-4e4e-b434-1bffbaa2f6bf.png) <br /><br />
 ![image](https://user-images.githubusercontent.com/106059007/210790905-5f6dcf7f-44fb-46b0-8b2f-5b900bb36c6d.png)
 
