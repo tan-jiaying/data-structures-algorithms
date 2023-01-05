@@ -1,5 +1,9 @@
 # Binary Search Tree
-A clear simulation of the binary search tree is implemented for the subject Data Structures &amp; Algorithms using Java.
+Clear simulations of the data structures Binary Search Tree and Hashing have been implemented using Java as part of a group assignment for the subject Data Structures &amp; Algorithms.
 
 > Demonstration of Program 
+
+**Binary Search Tree** 
+
+**Hashing**
 
