@@ -5,12 +5,12 @@ Clear simulations of the data structures Binary Search Tree and Hashing have bee
 
 **Binary Search Tree**
 
-![image](https://user-images.githubusercontent.com/106059007/210785490-30745857-a7ac-44f7-8ef2-c097f4ef06f1.png)
-![image](https://user-images.githubusercontent.com/106059007/210785554-647036d8-ac0f-4c19-ac67-3f25e373c637.png)
-![image](https://user-images.githubusercontent.com/106059007/210785607-dff30b87-91c1-4628-9d2d-0ba6309ea62c.png)
-![image](https://user-images.githubusercontent.com/106059007/210785653-02328cd3-0d76-4a5c-8bbb-33fbc335f88a.png)
-![image](https://user-images.githubusercontent.com/106059007/210785691-6c913e0f-434c-4b5e-82a6-2fdff902c44b.png)
-![image](https://user-images.githubusercontent.com/106059007/210785745-1aba8d3e-deb0-43c1-9e4b-283fc758ffcb.png)
+![image](https://user-images.githubusercontent.com/106059007/210785490-30745857-a7ac-44f7-8ef2-c097f4ef06f1.png)__
+![image](https://user-images.githubusercontent.com/106059007/210785554-647036d8-ac0f-4c19-ac67-3f25e373c637.png)__
+![image](https://user-images.githubusercontent.com/106059007/210785607-dff30b87-91c1-4628-9d2d-0ba6309ea62c.png)__
+![image](https://user-images.githubusercontent.com/106059007/210785653-02328cd3-0d76-4a5c-8bbb-33fbc335f88a.png)__
+![image](https://user-images.githubusercontent.com/106059007/210785691-6c913e0f-434c-4b5e-82a6-2fdff902c44b.png)__
+![image](https://user-images.githubusercontent.com/106059007/210785745-1aba8d3e-deb0-43c1-9e4b-283fc758ffcb.png)__
 
 **Hashing**
 
