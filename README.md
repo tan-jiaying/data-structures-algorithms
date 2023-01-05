@@ -14,15 +14,15 @@ Clear simulations of the data structures Binary Search Tree and Hashing have bee
 
 **Hashing**
 
-![image](https://user-images.githubusercontent.com/106059007/210788185-89246090-af98-4818-a7e5-f00fd773fe4a.png) <br />
-![image](https://user-images.githubusercontent.com/106059007/210788248-54f6f2a9-c6aa-417d-b353-44be8e02d796.png) <br />
+![image](https://user-images.githubusercontent.com/106059007/210790699-8d2c4d9f-00bc-455f-a77d-126907cf08c4.png) <br />
+![image](https://user-images.githubusercontent.com/106059007/210790748-b5575777-b20b-4e4d-9c18-85eb6395256a.png) <br />
 
 Open Addressing <br />
-![image](https://user-images.githubusercontent.com/106059007/210788296-831235a7-d419-4c27-9acd-12aa3b6a183a.png) 
-![image](https://user-images.githubusercontent.com/106059007/210788784-73715a64-a985-420c-8e05-268f82f71509.png) <br />
+![image](https://user-images.githubusercontent.com/106059007/210790801-613d4313-4498-420c-bf20-20901d8da606.png)
+![image](https://user-images.githubusercontent.com/106059007/210790982-b67f3fde-12d0-4636-b324-995d48322c2f.png) <br />
 
 Separate Chaining <br />
-![image](https://user-images.githubusercontent.com/106059007/210788367-8c23fb59-3035-4c91-9fc4-9aa42a21dfbd.png)
-![image](https://user-images.githubusercontent.com/106059007/210788842-45d521f6-40b0-4a95-b56d-946a9f2eb3cb.png) <br />
-![image](https://user-images.githubusercontent.com/106059007/210788419-936b0f59-5acd-4eac-b4fa-f95adab88e6e.png)
+![image](https://user-images.githubusercontent.com/106059007/210790834-38a9e3b4-418f-4010-a4ab-6f20a144c636.png)
+![image](https://user-images.githubusercontent.com/106059007/210791033-68cbfe1e-2183-4e4e-b434-1bffbaa2f6bf.png) <br />
+![image](https://user-images.githubusercontent.com/106059007/210790905-5f6dcf7f-44fb-46b0-8b2f-5b900bb36c6d.png)
 
